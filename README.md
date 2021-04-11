@@ -1,6 +1,7 @@
 # jpa-topic-links
 
 Annotations
+
 https://thorben-janssen.com/key-jpa-hibernate-annotations/
 
 https://www.w3spoint.com/jpa-column-annotation
